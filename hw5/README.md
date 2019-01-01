@@ -26,6 +26,6 @@ Scripts
 
 ![er diagram for part-2](er-diagram1.png)
 
-* [part-2-normalization-create.sql](scoot-share/part-2-normalization-create.sql)
-* [part-2-normalization-import.sql](scoot-share/part-2-normalization-import.sql)
-* [part-2-normalization-queries.sql](scoot-share/part-2-normalization-queries.sql)
+* [part-2-normalization-create.sql](nyc-hotspots/part-2-normalization-create.sql)
+* [part-2-normalization-import.sql](nyc-hotspots/part-2-normalization-import.sql)
+* [part-2-normalization-queries.sql](nyc-hotspots/part-2-normalization-queries.sql)
