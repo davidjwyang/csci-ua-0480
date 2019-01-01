@@ -2,7 +2,7 @@
 
 ## Scoot-Share
 
-![er diagram for scoot share](er-diagram1.png)
+![er diagram for scoot share](scoot-share/er-diagram1.png)
 
 * TODO: a list of design decisions<br>
 -Customer information not related to transactions was stored in one table because there wasn't much of a relationship between the different fields. <br>
