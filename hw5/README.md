@@ -19,13 +19,13 @@
 
 Scripts
 
-* [part-1-scoot-share-create.sql](part-1-scoot-share-create.sql)
-* [part-1-scoot-share-queries.sql](part-1-scoot-share-queries.sql)
+* [part-1-scoot-share-create.sql](scoot-share/part-1-scoot-share-create.sql)
+* [part-1-scoot-share-queries.sql](scooter-share/part-1-scoot-share-queries.sql)
 
 ## Normalization
 
 ![er diagram for part-2](er-diagram1.png)
 
-* [part-2-normalization-create.sql](part-2-normalization-create.sql)
-* [part-2-normalization-import.sql](part-2-normalization-import.sql)
-* [part-2-normalization-queries.sql](part-2-normalization-queries.sql)
+* [part-2-normalization-create.sql](scoot-share/part-2-normalization-create.sql)
+* [part-2-normalization-import.sql](scoot-share/part-2-normalization-import.sql)
+* [part-2-normalization-queries.sql](scoot-share/part-2-normalization-queries.sql)
