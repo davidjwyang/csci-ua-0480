@@ -24,7 +24,7 @@ Scripts
 
 ## Normalization
 
-![er diagram for part-2](nyc-hotspots/er-diagram1.png)
+![er diagram for part-2](nyc-hotspots/er-diagram2.png)
 
 * [part-2-normalization-create.sql](nyc-hotspots/part-2-normalization-create.sql)
 * [part-2-normalization-import.sql](nyc-hotspots/part-2-normalization-import.sql)
